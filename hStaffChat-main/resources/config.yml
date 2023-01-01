@@ -1,0 +1,3 @@
+
+prefix: "&8[&c&l hStaffChat &8]"
+format: "&f%prefix% %name% %server% %message%"

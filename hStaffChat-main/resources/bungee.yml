@@ -1,0 +1,4 @@
+name: HStaffChat
+version: '${project.version}'
+main: havarcoding.HStaffChat
+description: by HavarCodes
