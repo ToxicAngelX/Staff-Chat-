@@ -11,4 +11,4 @@ Perms:
  hstaffchattoggle.use
  
 By Toxic:
-Toxic#2228
+Discord Tag , Toxic#2228
