@@ -1,4 +1,4 @@
-# hStaffChat
+# StaffChat
 
 Simple StaffChat with config you can edit all message format.
 
@@ -10,5 +10,5 @@ Perms:
  hstaffchat.use
  hstaffchattoggle.use
  
-By HavarCoding:
-https://discord.gg/yd4Vnf4nMF
+By Toxic:
+Toxic#2228
