@@ -1,4 +1,4 @@
-name: HStaffChat
+name: StaffChat
 version: '${project.version}'
-main: havarcoding.HStaffChat
-description: by HavarCodes
+main: toxiccode
+description: by Toxic
